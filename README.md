@@ -1,4 +1,4 @@
-# Business Suite MVP
+# Business Monitoring Pro
 
 A complete, offline-ready business financial management web app that tracks projects, allocates profits, monitors daily expenses, and visualizes exactly where every dollar goes.
 
@@ -42,4 +42,4 @@ No installation, no server, no internet required after download.
 
 ## License
 
-MIT
+Mrk
